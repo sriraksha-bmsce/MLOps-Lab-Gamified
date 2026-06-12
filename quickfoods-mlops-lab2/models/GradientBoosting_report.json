@@ -1,0 +1,12 @@
+{
+  "model_name": "GradientBoosting",
+  "params": {},
+  "metrics": {
+    "mae": 5.751240121424199,
+    "mse": 48.72559698666355,
+    "rmse": 6.980372267054498,
+    "r2": 0.8951574029334834
+  },
+  "model_size_kb": 134.2109375,
+  "avg_inference_latency_ms": 0.8264472350037977
+}

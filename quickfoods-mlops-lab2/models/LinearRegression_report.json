@@ -1,0 +1,12 @@
+{
+  "model_name": "LinearRegression",
+  "params": {},
+  "metrics": {
+    "mae": 5.724222059525474,
+    "mse": 37.2442067731865,
+    "rmse": 6.1028031897798,
+    "r2": 0.9198618466418795
+  },
+  "model_size_kb": 0.9150390625,
+  "avg_inference_latency_ms": 0.7017170050039567
+}
